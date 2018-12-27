@@ -19,6 +19,11 @@
           allowedIPs = [ "10.31.42.100/32" ];
         }
         
+         { # fransjoakim
+          publicKey = "AfREZUD85gvuDse6ogHTrr/pkAJ6IfGMjEi7+MxiIkQ=";
+          allowedIPs = [ "10.31.42.107/32" ];
+          }
+        
         { # lassegs1
           publicKey = "msDoQv3EWw9lI8jR9ka4ZqeL4bIr1xkwruYNVh99CkM=";
           allowedIPs = [ "10.31.42.105/32" ];
